@@ -1,0 +1,32 @@
+{
+  "name": "@marcneander/stylelint-config-styled-components",
+  "version": "1.0.0",
+  "author": "Marc Neander <marcneander@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcneander/stylelint-config-styled-components"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "LICENSE"
+  ],
+  "homepage": "https://marcneander.se",
+  "keywords": [
+    "stylelint",
+    "stylelintconfig",
+    "styled-components",
+    "config",
+    "marcneander",
+    "css"
+  ],
+  "peerDependencies": {
+    "stylelint": "^8.3.0 || ^9.0.0"
+  },
+  "dependencies": {
+    "@marcneander/stylelint-config": "^1.0.0",
+    "stylelint-config-styled-components": "^0.1.1",
+    "stylelint-processor-styled-components": "^1.5.0"
+  }
+}
