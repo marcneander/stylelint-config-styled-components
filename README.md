@@ -12,6 +12,9 @@
 </p>
 
 # stylelint-config-styled-components
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/marcneander/stylelint-config-styled-components.svg)](https://greenkeeper.io/)
+
 ## Install
 
 `yarn add --dev @marcneander/stylelint-config-styled-components`
